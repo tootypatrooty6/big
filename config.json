@@ -1,7 +1,7 @@
 {
-    "port": "8081",
+    "port": "2554",
     "ssl": false,
-    "prefix": "/web/",
+    "prefix": "/silly/",
     "localAddresses": [],
     "blockedHostnames": []
 }
