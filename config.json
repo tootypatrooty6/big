@@ -2,6 +2,6 @@
     "port": "2554",
     "ssl": false,
     "prefix": "/silly/",
-    "localAddresses": [ "8.8.8.8" ],
+    "localAddresses": []
     "blockedHostnames": []
 }
